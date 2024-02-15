@@ -1,0 +1,1 @@
+This is page containing menu for a photographer.
